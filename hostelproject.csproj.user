@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Act.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Actcalen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buttoncustom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Chatstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Complaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComplaintsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fee info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="HomeAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HostelStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menudis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomAlloted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomsManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalaryEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Studentinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Textboxcustom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="utilitybills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
